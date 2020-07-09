@@ -9,10 +9,7 @@ Feito para a disciplina de Governança de Tecnologia da Informação - Professor
 [Link para download](https://code.visualstudio.com/#alt-downloads)
 
 ### 3) Instale o Typescript.
-Rodar no terminal o seguinte comando:
-```bash
-npm install -g typescript
-```
+Rodar no terminal o seguinte comando: `npm install -g typescript`
 
 ### 4) Faça o download do projeto.
 #### 4.1) Pelo git clone
